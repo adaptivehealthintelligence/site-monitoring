@@ -5,6 +5,8 @@ repo: site-monitoring # The name of this repository
 sites:
     - name: covidi_dashboard
       url: $COVIDI_DASHBOARD
+    - name: motc_project
+      url: $MOTC_PROJECT
 
 status-website:
     # Add your custom domain name, or remove the `cname` line if you don't have a domain
