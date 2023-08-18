@@ -9,6 +9,8 @@ sites:
       url: $MOTC_PROJECT
     - name: motc_navigator_portal
       url: $MOTC_NAVIGATOR_PORTAL
+    - name: mfit
+      url: $MFIT
 
 status-website:
     # Add your custom domain name, or remove the `cname` line if you don't have a domain
