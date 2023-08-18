@@ -7,6 +7,8 @@ sites:
       url: $COVIDI_DASHBOARD
     - name: motc_project
       url: $MOTC_PROJECT
+    - name: motc_navigator_portal
+      url: $MOTC_NAVIGATOR_PORTAL
 
 status-website:
     # Add your custom domain name, or remove the `cname` line if you don't have a domain
