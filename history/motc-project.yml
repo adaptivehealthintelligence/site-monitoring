@@ -1,7 +1,7 @@
 url: $MOTC_PROJECT
-status: up
-code: 200
-responseTime: 5135
-lastUpdated: 2023-08-18T23:05:38.006Z
-startTime: Fri Aug 18 2023 05:35:52 GMT+0000 (Coordinated Universal Time)
+status: down
+code: 500
+responseTime: 5503
+lastUpdated: 2023-08-19T05:49:41.009Z
+startTime: 2023-08-18T05:35:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
