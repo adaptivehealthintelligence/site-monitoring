@@ -27,7 +27,7 @@ status-website:
     introMessage:
     navbar:
         - title: Status
-          href: /
+          href: https://www.youtube.com/watch?v=oHg5SJYRHA0
     robotsText: "User-agent * \n Disallow: * /"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
