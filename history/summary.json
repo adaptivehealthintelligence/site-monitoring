@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1452,
-    "timeDay": 1683,
-    "timeWeek": 1518,
-    "timeMonth": 1452,
-    "timeYear": 1452,
+    "time": 1455,
+    "timeDay": 1485,
+    "timeWeek": 1531,
+    "timeMonth": 1455,
+    "timeYear": 1455,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1419,
-    "timeDay": 1805,
-    "timeWeek": 1557,
-    "timeMonth": 1419,
-    "timeYear": 1419,
+    "time": 1417,
+    "timeDay": 1390,
+    "timeWeek": 1529,
+    "timeMonth": 1417,
+    "timeYear": 1417,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "covid-i-dashboard",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 976,
-    "timeDay": 727,
-    "timeWeek": 921,
-    "timeMonth": 984,
-    "timeYear": 976,
-    "dailyMinutesDown": {
-      "2023-09-24": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 975,
+    "timeDay": 640,
+    "timeWeek": 932,
+    "timeMonth": 983,
+    "timeYear": 975,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MotC Project",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.81%",
-    "time": 3767,
-    "timeDay": 2839,
-    "timeWeek": 2714,
-    "timeMonth": 3818,
-    "timeYear": 3767,
+    "time": 3743,
+    "timeDay": 2605,
+    "timeWeek": 2703,
+    "timeMonth": 3807,
+    "timeYear": 3743,
     "dailyMinutesDown": {
       "2023-09-11": 76,
       "2023-08-24": 18
@@ -88,9 +86,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 1156,
-    "timeDay": 1494,
-    "timeWeek": 1217,
-    "timeMonth": 1165,
+    "timeDay": 1179,
+    "timeWeek": 1238,
+    "timeMonth": 1170,
     "timeYear": 1156,
     "dailyMinutesDown": {
       "2023-09-06": 30
@@ -107,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1140,
-    "timeDay": 1515,
+    "time": 1137,
+    "timeDay": 1017,
     "timeWeek": 1121,
-    "timeMonth": 1142,
-    "timeYear": 1140,
+    "timeMonth": 1141,
+    "timeYear": 1137,
     "dailyMinutesDown": {}
   },
   {
@@ -125,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1063,
-    "timeDay": 1108,
-    "timeWeek": 1089,
+    "time": 1060,
+    "timeDay": 988,
+    "timeWeek": 1078,
     "timeMonth": 1058,
-    "timeYear": 1063,
+    "timeYear": 1060,
     "dailyMinutesDown": {}
   },
   {
@@ -143,11 +141,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6246,
-    "timeDay": 6683,
-    "timeWeek": 6259,
-    "timeMonth": 6259,
-    "timeYear": 6246,
+    "time": 6233,
+    "timeDay": 5771,
+    "timeWeek": 6228,
+    "timeMonth": 6239,
+    "timeYear": 6233,
     "dailyMinutesDown": {}
   }
 ]
