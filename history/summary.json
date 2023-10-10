@@ -135,19 +135,19 @@
     "url": "$BEAT_CF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "beat-cf",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6252,
-    "timeDay": 7359,
-    "timeWeek": 6443,
-    "timeMonth": 6271,
-    "timeYear": 6252,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 6246,
+    "timeDay": 6658,
+    "timeWeek": 6382,
+    "timeMonth": 6261,
+    "timeYear": 6246,
     "dailyMinutesDown": {
-      "2023-10-10": 0
+      "2023-10-10": 11
     }
   }
 ]
