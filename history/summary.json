@@ -135,9 +135,9 @@
     "url": "$BEAT_CF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "beat-cf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -146,6 +146,8 @@
     "timeWeek": 6443,
     "timeMonth": 6271,
     "timeYear": 6252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-10": 0
+    }
   }
 ]
