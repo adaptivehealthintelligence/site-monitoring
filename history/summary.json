@@ -58,9 +58,9 @@
     "url": "$MOTC_PROJECT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mot-c-project",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -70,6 +70,7 @@
     "timeMonth": 3029,
     "timeYear": 3566,
     "dailyMinutesDown": {
+      "2023-10-16": 0,
       "2023-09-11": 76,
       "2023-08-24": 18
     }
