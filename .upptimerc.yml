@@ -29,7 +29,7 @@ status-website:
     # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
     # cname: demo.upptime.js.org
     baseUrl: /site-monitoring
-    logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+    logoUrl: https://adaptivehealthintelligence.org.au/wp-content/uploads/2019/09/Adaptive-Health-Intelligence-Logo-980x387.jpg
     name: AHI Site Monitoring
     introTitle: AHI Site Monitoring
     introMessage:
