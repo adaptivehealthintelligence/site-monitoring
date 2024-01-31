@@ -4,19 +4,19 @@
     "url": "$MFIT_GET_PT_API_DEV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mfit-get-pt-api-dev",
-    "status": "down",
-    "uptime": "38.37%",
-    "uptimeDay": "38.37%",
-    "uptimeWeek": "38.37%",
-    "uptimeMonth": "38.37%",
-    "uptimeYear": "38.37%",
-    "time": 4503,
-    "timeDay": 4503,
-    "timeWeek": 4503,
-    "timeMonth": 4503,
-    "timeYear": 4503,
+    "status": "up",
+    "uptime": "36.26%",
+    "uptimeDay": "36.26%",
+    "uptimeWeek": "36.26%",
+    "uptimeMonth": "36.26%",
+    "uptimeYear": "36.26%",
+    "time": 4295,
+    "timeDay": 4295,
+    "timeWeek": 4295,
+    "timeMonth": 4295,
+    "timeYear": 4295,
     "dailyMinutesDown": {
-      "2024-01-31": 340
+      "2024-01-31": 373
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$MFIT_GET_PT_API_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mfit-get-pt-api-prod",
-    "status": "up",
-    "uptime": "34.12%",
-    "uptimeDay": "34.12%",
-    "uptimeWeek": "34.12%",
-    "uptimeMonth": "34.12%",
-    "uptimeYear": "34.12%",
+    "status": "down",
+    "uptime": "37.82%",
+    "uptimeDay": "37.82%",
+    "uptimeWeek": "37.82%",
+    "uptimeMonth": "37.82%",
+    "uptimeYear": "37.82%",
     "time": 2806,
     "timeDay": 2806,
     "timeWeek": 2806,
     "timeMonth": 2806,
     "timeYear": 2806,
     "dailyMinutesDown": {
-      "2024-01-31": 362
+      "2024-01-31": 363
     }
   },
   {
