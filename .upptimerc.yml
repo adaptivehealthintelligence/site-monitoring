@@ -1,7 +1,13 @@
 # Change these first
 owner: adaptivehealthintelligence # Your GitHub organization or username, where this repository lives
 repo: site-monitoring # The name of this repository
-
+assignees: garybrowne
+projects:
+    - name: Site Monitoring
+      columns:
+          - To do
+          - In progress
+          - Done
 sites:
     - name: MFIT get pt API (DEV)
       url: $MFIT_GET_PT_API_DEV
@@ -32,7 +38,7 @@ status-website:
     logoUrl: https://adaptivehealthintelligence.org.au/wp-content/uploads/2019/09/Adaptive-Health-Intelligence-Logo-980x387.jpg
     name: AHI Site Monitoring
     introTitle: AHI Site Monitoring
-    introMessage:
+    introMessage: Working together to create a better way for clinical research & healthcare
     navbar:
         - title: Status
           href: https://www.youtube.com/watch?v=oHg5SJYRHA0
