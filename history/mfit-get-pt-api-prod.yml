@@ -1,7 +1,7 @@
 url: $MFIT_GET_PT_API_PROD
-status: up
-code: 200
-responseTime: 743
-lastUpdated: 2024-01-31T19:03:40.510Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-01-31T19:19:31.437Z
 startTime: 2024-01-31T00:35:36.427Z
 generator: Upptime <https://github.com/upptime/upptime>
