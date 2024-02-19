@@ -16,7 +16,7 @@
     "timeMonth": 2019,
     "timeYear": 2019,
     "dailyMinutesDown": {
-      "2024-02-19": 266,
+      "2024-02-19": 267,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
@@ -55,7 +55,7 @@
     "timeMonth": 1680,
     "timeYear": 1680,
     "dailyMinutesDown": {
-      "2024-02-19": 266,
+      "2024-02-19": 267,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
@@ -188,18 +188,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mfit-portal",
     "status": "down",
-    "uptime": "10.19%",
-    "uptimeDay": "10.19%",
-    "uptimeWeek": "10.19%",
-    "uptimeMonth": "10.19%",
-    "uptimeYear": "10.19%",
+    "uptime": "4.96%",
+    "uptimeDay": "4.96%",
+    "uptimeWeek": "4.96%",
+    "uptimeMonth": "4.96%",
+    "uptimeYear": "4.96%",
     "time": 778,
     "timeDay": 778,
     "timeWeek": 778,
     "timeMonth": 778,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2024-02-19": 0
+      "2024-02-19": 1
     }
   },
   {
