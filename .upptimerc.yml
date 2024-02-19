@@ -23,7 +23,7 @@ sites:
       url: $MOTC_PROJECT
     - name: MotC Navigator Portal
       url: $MOTC_NAVIGATOR_PORTAL
-    - name: M-FIT portal
+    - name: MFIT portal
       url: $MFIT
     - name: Adaptive Health Intelligence
       url: $AHI
