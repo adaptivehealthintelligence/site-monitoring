@@ -1,7 +1,7 @@
 url: $MFIT_GET_PT_API_PROD
 status: down
 code: 502
-responseTime: 943
-lastUpdated: 2024-02-23T23:05:31.215Z
+responseTime: 1210
+lastUpdated: 2024-02-24T23:05:33.928Z
 startTime: 2024-01-31T00:35:36.427Z
 generator: Upptime <https://github.com/upptime/upptime>
