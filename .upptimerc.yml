@@ -40,7 +40,7 @@ status-website:
     introTitle: AHI Site Monitoring
     introMessage: Working together to create a better way for clinical research & healthcare
     navbar:
-        - title: Status
+        - title: Configure
           href: https://www.youtube.com/watch?v=oHg5SJYRHA0
     robotsText: "User-agent * \n Disallow: * /"
 # Upptime also supports notifications, assigning issues, and more
