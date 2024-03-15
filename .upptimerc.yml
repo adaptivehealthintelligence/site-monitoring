@@ -21,8 +21,8 @@ sites:
       url: $AUTOMATIC_MIDDLEWARE (PROD)
     - name: COVID-I Dashboard
       url: $COVIDI_DASHBOARD
-    - name: MotC Project (PROD)
-      url: $MOTC_PROJECT
+    - name: MotC Wordpress Site (PROD)
+      url: $MOTC_WP_SITE_PROD
     - name: MotC Navigator Portal (PROD)
       url: $MOTC_NAVIGATOR_PORTAL_PROD
     - name: MFIT portal (PROD)
