@@ -16,7 +16,7 @@
     "timeMonth": 992,
     "timeYear": 1967,
     "dailyMinutesDown": {
-      "2024-03-15": 1315,
+      "2024-03-15": 1316,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -127,8 +127,8 @@
     "slug": "platinum-c",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 1502,
@@ -137,7 +137,7 @@
     "timeMonth": 1488,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2024-03-15": 0,
+      "2024-03-15": 1,
       "2023-10-18": 245,
       "2023-10-17": 1440,
       "2023-10-16": 55
@@ -150,8 +150,8 @@
     "slug": "automatic",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 1478,
@@ -160,7 +160,7 @@
     "timeMonth": 1472,
     "timeYear": 1478,
     "dailyMinutesDown": {
-      "2024-03-15": 0,
+      "2024-03-15": 1,
       "2023-10-18": 245,
       "2023-10-17": 1440,
       "2023-10-16": 55
@@ -226,18 +226,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mfit-portal-prod",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.62%",
+    "uptimeDay": "0.62%",
+    "uptimeWeek": "0.62%",
+    "uptimeMonth": "0.62%",
+    "uptimeYear": "0.62%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 0
+      "2024-03-15": 1
     }
   },
   {
