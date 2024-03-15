@@ -13,18 +13,20 @@ sites:
       url: $MFIT_GET_PT_API_DEV
     - name: MFIT get pt API (PROD)
       url: $MFIT_GET_PT_API_PROD
+    - name: MFIT get pt API (on MotC DEV server)
+      url: $MFIT_GET_PT_API_ON_MOTC_DEV_SERVER
     - name: PlatinumC
-      url: $PLATINUMC_MIDDLEWARE
+      url: $PLATINUMC_MIDDLEWARE (PROD)
     - name: AUTOMATIC
-      url: $AUTOMATIC_MIDDLEWARE
+      url: $AUTOMATIC_MIDDLEWARE (PROD)
     - name: COVID-I Dashboard
       url: $COVIDI_DASHBOARD
-    - name: MotC Project
+    - name: MotC Project (PROD)
       url: $MOTC_PROJECT
-    - name: MotC Navigator Portal
+    - name: MotC Navigator Portal (PROD)
       url: $MOTC_NAVIGATOR_PORTAL
-    - name: MFIT portal
-      url: $MFIT
+    - name: MFIT portal (PROD)
+      url: $MFIT_PORTAL_PROD
     - name: Adaptive Health Intelligence
       url: $AHI
     - name: BEAT-CF
