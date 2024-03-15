@@ -24,7 +24,7 @@ sites:
     - name: MotC Project (PROD)
       url: $MOTC_PROJECT
     - name: MotC Navigator Portal (PROD)
-      url: $MOTC_NAVIGATOR_PORTAL
+      url: $MOTC_NAVIGATOR_PORTAL_PROD
     - name: MFIT portal (PROD)
       url: $MFIT_PORTAL_PROD
     - name: Adaptive Health Intelligence
