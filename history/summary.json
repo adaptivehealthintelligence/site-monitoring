@@ -16,7 +16,7 @@
     "timeMonth": 1187,
     "timeYear": 1972,
     "dailyMinutesDown": {
-      "2024-03-15": 1322,
+      "2024-03-15": 1331,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -69,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mfit-get-pt-api-prod",
     "status": "down",
-    "uptime": "69.08%",
+    "uptime": "69.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.37%",
-    "uptimeYear": "69.08%",
+    "uptimeMonth": "54.35%",
+    "uptimeYear": "69.07%",
     "time": 2442,
     "timeDay": 1405,
     "timeWeek": 1408,
     "timeMonth": 2781,
     "timeYear": 2442,
     "dailyMinutesDown": {
-      "2024-03-15": 1322,
+      "2024-03-15": 1331,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -106,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mfit-get-pt-api-on-mot-c-dev-server",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 7
+      "2024-03-15": 16
     }
   },
   {
@@ -126,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "platinum-c",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.35%",
+    "uptime": "99.34%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.34%",
     "time": 1502,
     "timeDay": 1251,
     "timeWeek": 1408,
     "timeMonth": 1488,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2024-03-15": 7,
+      "2024-03-15": 16,
       "2023-10-18": 245,
       "2023-10-17": 1440,
       "2023-10-16": 55
@@ -149,18 +149,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "automatic",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.35%",
+    "uptime": "99.34%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.34%",
     "time": 1478,
     "timeDay": 1235,
     "timeWeek": 1369,
     "timeMonth": 1472,
     "timeYear": 1478,
     "dailyMinutesDown": {
-      "2024-03-15": 7,
+      "2024-03-15": 16,
       "2023-10-18": 245,
       "2023-10-17": 1440,
       "2023-10-16": 55
@@ -171,9 +171,9 @@
     "url": "$COVIDI_DASHBOARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "covid-i-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -182,7 +182,9 @@
     "timeWeek": 1180,
     "timeMonth": 1138,
     "timeYear": 1075,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   },
   {
     "name": "MotC Wordpress Site (PROD)",
@@ -201,7 +203,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 1
+      "2024-03-15": 10
     }
   },
   {
@@ -245,9 +247,9 @@
     "url": "$AHI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adaptive-health-intelligence",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -256,16 +258,18 @@
     "timeWeek": 1121,
     "timeMonth": 1098,
     "timeYear": 1084,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   },
   {
     "name": "BEAT-CF",
     "url": "$BEAT_CF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "beat-cf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -274,6 +278,8 @@
     "timeWeek": 7935,
     "timeMonth": 7153,
     "timeYear": 6647,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   }
 ]
