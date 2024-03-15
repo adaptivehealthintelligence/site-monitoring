@@ -127,9 +127,9 @@
     "slug": "platinum-c",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.35%",
     "time": 1502,
     "timeDay": 1251,
@@ -150,9 +150,9 @@
     "slug": "automatic",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.35%",
     "time": 1478,
     "timeDay": 1235,
@@ -201,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 0
+      "2024-03-15": 1
     }
   },
   {
@@ -210,19 +210,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mot-c-navigator-portal-prod",
     "status": "up",
-    "uptime": "74.11%",
-    "uptimeDay": "74.11%",
-    "uptimeWeek": "74.11%",
-    "uptimeMonth": "74.11%",
-    "uptimeYear": "74.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1272,
     "timeDay": 1272,
     "timeWeek": 1272,
     "timeMonth": 1272,
     "timeYear": 1272,
-    "dailyMinutesDown": {
-      "2024-03-15": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MFIT portal (PROD)",
