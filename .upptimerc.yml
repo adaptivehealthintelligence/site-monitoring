@@ -15,22 +15,22 @@ sites:
       url: $MFIT_GET_PT_API_PROD
     - name: MFIT get pt API (on MotC DEV server)
       url: $MFIT_GET_PT_API_ON_MOTC_DEV_SERVER
-    - name: PlatinumC
-      url: $PLATINUMC_MIDDLEWARE (PROD)
-    - name: AUTOMATIC
-      url: $AUTOMATIC_MIDDLEWARE (PROD)
-    - name: COVID-I Dashboard
-      url: $COVIDI_DASHBOARD
+    - name: PlatinumC (PROD)
+      url: $PLATINUMC_MIDDLEWARE_PROD
+    - name: AUTOMATIC (PROD)
+      url: $AUTOMATIC_MIDDLEWARE_PROD
+    - name: COVID-I Dashboard (PROD)
+      url: $COVIDI_DASHBOARD_PROD
     - name: MotC Wordpress Site (PROD)
       url: $MOTC_WP_SITE_PROD
     - name: MotC Navigator Portal (PROD)
       url: $MOTC_NAVIGATOR_PORTAL_PROD
     - name: MFIT portal (PROD)
       url: $MFIT_PORTAL_PROD
-    - name: Adaptive Health Intelligence
-      url: $AHI
-    - name: BEAT-CF
-      url: $BEAT_CF
+    - name: Adaptive Health Intelligence (PROD)
+      url: $AHI_PROD
+    - name: BEAT-CF (PROD)
+      url: $BEAT_CF_PROD
 
 status-website:
     # Add your custom domain name, or remove the `cname` line if you don't have a domain
