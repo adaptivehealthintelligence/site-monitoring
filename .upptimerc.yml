@@ -22,7 +22,7 @@ sites:
     - name: COVID-I Dashboard (PROD)
       url: $COVIDI_DASHBOARD_PROD
     - name: MotC Wordpress Site (PROD)
-      url: $MOTC_WP_SITE_PROD
+      url: $MOTC_WORDPRESS_SITE_PROD
     - name: MotC Navigator Portal (PROD)
       url: $MOTC_NAVIGATOR_PORTAL_PROD
     - name: MFIT portal (PROD)
