@@ -1,7 +1,7 @@
 url: $BEAT_CF_PROD
-status: down
-code: 500
-responseTime: 1319
-lastUpdated: 2024-04-12T16:16:25.448Z
+status: up
+code: 200
+responseTime: 7663
+lastUpdated: 2024-04-12T16:26:14.195Z
 startTime: 2024-03-18T04:50:54.247Z
 generator: Upptime <https://github.com/upptime/upptime>
