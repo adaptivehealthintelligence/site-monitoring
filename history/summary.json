@@ -40,10 +40,10 @@
     "url": "$COVIDI_DASHBOARD_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "covid-i-dashboard-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1123,
@@ -51,7 +51,9 @@
     "timeWeek": 1104,
     "timeMonth": 1123,
     "timeYear": 1123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-14": 2
+    }
   },
   {
     "name": "MotC Wordpress Site (PROD)",
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mot-c-wordpress-site-prod",
     "status": "up",
-    "uptime": "92.13%",
+    "uptime": "92.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.13%",
-    "uptimeYear": "92.13%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "92.26%",
     "time": 2896,
     "timeDay": 3072,
     "timeWeek": 3064,
@@ -81,9 +83,9 @@
     "url": "$MOTC_NAVIGATOR_PORTAL_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mot-c-navigator-portal-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +94,9 @@
     "timeWeek": 1275,
     "timeMonth": 1440,
     "timeYear": 1440,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-14": 0
+    }
   },
   {
     "name": "Adaptive Health Intelligence (PROD)",
