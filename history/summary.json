@@ -40,11 +40,11 @@
     "url": "$COVIDI_DASHBOARD_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "covid-i-dashboard-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.79%",
     "time": 1096,
     "timeDay": 814,
@@ -52,6 +52,7 @@
     "timeMonth": 1084,
     "timeYear": 1096,
     "dailyMinutesDown": {
+      "2024-04-23": 2,
       "2024-04-14": 107
     }
   },
@@ -61,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mot-c-wordpress-site-prod",
     "status": "up",
-    "uptime": "93.99%",
+    "uptime": "94.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.99%",
+    "uptimeYear": "94.11%",
     "time": 2843,
     "timeDay": 2363,
     "timeWeek": 2675,
@@ -83,9 +84,9 @@
     "url": "$MOTC_NAVIGATOR_PORTAL_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mot-c-navigator-portal-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.81%",
@@ -95,6 +96,7 @@
     "timeMonth": 1873,
     "timeYear": 1738,
     "dailyMinutesDown": {
+      "2024-04-23": 0,
       "2024-04-14": 106
     }
   },
