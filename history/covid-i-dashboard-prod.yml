@@ -1,7 +1,7 @@
 url: $COVIDI_DASHBOARD_PROD
 status: up
 code: 200
-responseTime: 1129
-lastUpdated: 2024-06-09T23:05:58.730Z
+responseTime: 1013
+lastUpdated: 2024-06-10T23:05:44.471Z
 startTime: 2024-03-18T04:50:47.690Z
 generator: Upptime <https://github.com/upptime/upptime>
