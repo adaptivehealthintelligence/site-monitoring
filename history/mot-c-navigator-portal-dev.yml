@@ -1,7 +1,7 @@
 url: $MOTC_NAVIGATOR_PORTAL_DEV
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-20T02:42:25.223Z
+status: up
+code: 200
+responseTime: 1475
+lastUpdated: 2024-06-20T03:21:24.069Z
 startTime: 2024-06-20T02:41:07.931Z
 generator: Upptime <https://github.com/upptime/upptime>
