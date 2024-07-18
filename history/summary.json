@@ -4,18 +4,20 @@
     "url": "$MFIT_PORTAL_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mfit-portal-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1439,
-    "timeDay": 1125,
-    "timeWeek": 1152,
-    "timeMonth": 1784,
-    "timeYear": 1439,
-    "dailyMinutesDown": {}
+    "time": 1631,
+    "timeDay": 6197,
+    "timeWeek": 2417,
+    "timeMonth": 2071,
+    "timeYear": 1631,
+    "dailyMinutesDown": {
+      "2024-07-18": 0
+    }
   },
   {
     "name": "MFIT portal (DEV)",
@@ -92,7 +94,7 @@
     "status": "up",
     "uptime": "97.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.21%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "97.90%",
     "time": 3821,
