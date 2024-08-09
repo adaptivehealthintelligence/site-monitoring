@@ -1,7 +1,7 @@
 url: $MFIT_PORTAL_PROD
-status: down
-code: 502
-responseTime: 856
-lastUpdated: 2024-08-09T04:34:17.514Z
+status: up
+code: 200
+responseTime: 849
+lastUpdated: 2024-08-09T04:41:42.402Z
 startTime: 2024-06-20T02:41:02.908Z
 generator: Upptime <https://github.com/upptime/upptime>
